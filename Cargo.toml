@@ -1,0 +1,8 @@
+[package]
+name = "markdown_citation_expander"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+arboard = "3.4.1"
+regex = "1.11.1"
